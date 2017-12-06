@@ -1,0 +1,16 @@
+"serC-aroA" "serC" "ycaP" "forward" "cgcgggt" "acctgtg" 7 -15.7 -8.3 956818 956841 956847
+"serC-aroA" "serC-aroA" "ycaP" "forward" "cgcgggt" "acctgtg" 7 -15.7 -8.3 956818 956841 956847
+"cmk-rpsA-ihfB" "rpsA-ihfB" "rpsA" "forward" "aagggcg" "cgccttt" 7 -18.84 -8.1 960940 962975 962981
+"yeaI" "yeaI" "yeaH" "forward" "ggctgat" "atcagcc" 7 -16.98 -9.8 1868267 1868289 1868295
+"aslB" "aslB" "proM" "forward" "cttcggc" "gtcggag" 7 -16.18 -7.2 3980804 3980848 3980854
+"yihLM" "yihLM" "typA" "forward" "ggcaggt" "acctgcc" 7 -15.31 -11.8 4058276 4058289 4058295
+"pflDC" "pflDC" "frwB" "forward" "gggcggg" "cccgctc" 7 -13.34 -11.9 4141976 4141987 4141993
+"nsrR-rnr-rlmB-yjfIJ" "nsrR-rnr-rlmB-yjfI" "rnr" "forward" "atccggc" "gtcgggt" 7 -20.24 -8 4404067 4407199 4407205
+"pflA" "pflA" "pflB" "reverse" "gtggggc" "gctccac" 7 -16.2 -10.5 950451 950434 950440
+"adhP" "adhP" "maeA" "reverse" "cggtagt" "actaccg" 7 -17.28 -8.9 1552018 1551980 1551986
+"mglBAC" "mglAC" "mglB" "reverse" "ctgcgcc" "ggcgtag" 7 -16.11 -10.6 2237413 2237342 2237348
+"xerD-dsbC-recJ-prfB-lysS" "dsbC-recJ-prfB" "recJ" "reverse" "ccgctct" "ggagtgg" 7 -18.01 -9.2 3037655 3034346 3034352
+"rpsLG-fusA-tufA" "rpsLG-fusA-tufA" "tusB" "reverse" "tgaggac" "gtcctca" 7 -15.21 -9.9 3472643 3472623 3472629
+"glpEGR" "glpR" "glpR" "reverse" "gctgtgc" "gtgcagc" 7 -14.52 -8.2 3558914 3557873 3557879
+"yidB" "yidB" "gyrB" "reverse" "atccggc" "gccggat" 7 -19.95 -11.3 3875638 3875609 3875615
+"frdABCD" "frdD" "frdD" "reverse" "ccgccta" "tgggcgg" 7 -18.9 -10.9 4377456 4377000 4377006

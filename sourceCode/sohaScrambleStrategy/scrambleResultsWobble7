@@ -1,0 +1,3 @@
+operon transUnit codingStrand abortiveLength abortSeq325 numScrambles scrambleMean scrambleMedian scrambleStdev numTrueMatches transcriptLength
+cmk-rpsA-ihfB rpsA-ihfB forward 7 TTTCCGC 0 2.307373046875 1.0 3.3444185085885234 8 2396
+cmk-rpsA-ihfB rpsA-ihfB forward 7 ACCGCGC 0 2.182373046875 1.0 3.165085551258052 0 2254

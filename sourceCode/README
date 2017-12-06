@@ -1,0 +1,22 @@
+README
+
+Pipeline:
+
+1. findAbortives
+   -locates abortive sequences in a parsed version of the UTR file
+    described in the methods section of the paper
+   -compiled program outputs a file of abortive matches for both the
+    forward and reverse strands
+
+2a. rbsMatch
+   -given the output of findAbortives and a file of RBSs, matches
+    abortive sequences to RBSs based on location
+
+2b. termParse
+   -given the output of findAbortives and a file of terminators,
+    matches abortive sequences to RBSs based on location
+
+4. deltaGAnalysis
+   -given the output of rbsMatch or termParse, uses the UNAFold
+    program hybrid2.pl to evaluate the deltaG of those abortives
+   -requires a UNAFold license
