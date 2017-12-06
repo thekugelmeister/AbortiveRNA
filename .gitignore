@@ -17,3 +17,5 @@ result
 *.txt
 *.out
 *.xlsx
+*.gb
+*.fasta
